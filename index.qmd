@@ -1,0 +1,9 @@
+---
+title: "Neelkumar Patel Portfolio"
+---
+
+# Neelkumar Patel
+
+Welcome to my portfolio! I am a Data Analyst and Developer with experience in various technologies such as Power BI, Django, and Unity. Explore my experience, projects, and skills using the navigation bar.
+
+**Contact Details:** - Email: neelpatel2804\@gmail.com - Phone: 571-776-6037 - Location: Ashburn, VA - [LinkedIn](https://linkedin.com/in/neelpatel2601)

@@ -1,0 +1,19 @@
+---
+title: "Work Experience"
+---
+
+
+## Data Analyst Intern | Dev Information Technology, India (Jan 2024 – May 2024)
+- Completed a course on Power BI, learning data modeling, visualization, and reporting techniques.
+- Reprocessed pharma data and built Power BI dashboards for branch managers to log in and get insights.
+- Created a heat map of India to analyze product sales distribution.
+- Analyzed Gujarat government import-export data using Power BI.
+
+## Backend Developer Intern | VNerds, India (Jun 2023 – Sep 2023)
+- Implemented CRUD operations using Django, FastAPI, and Flask with SQLite.
+- Developed APIs in Django to update the company’s database automatically.
+- Tested APIs via Postman.
+
+## Web Developer Intern | Logical Plateau, India (May 2022 – Jun 2022)
+- Developed an HTML and CSS-based calculator for an EV scooter company website.
+- Built a WordPress website for a paying guest business, showcasing room options.

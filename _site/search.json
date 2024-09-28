@@ -1,0 +1,310 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Neelkumar Patel Portfolio",
+    "section": "",
+    "text": "Neelkumar Patel\nWelcome to my portfolio! I am a Data Analyst and Developer with experience in various technologies such as Power BI, Django, and Unity. Explore my experience, projects, and skills using the navigation bar.\nContact Details: - Email: neelpatel2804@gmail.com - Phone: 571-776-6037 - Location: Ashburn, VA - LinkedIn"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#data-analyst-intern-dev-information-technology-india",
+    "href": "index.html#data-analyst-intern-dev-information-technology-india",
+    "title": "Neelkumar Patel’s Resume",
+    "section": "Data Analyst Intern | Dev Information Technology, India",
+    "text": "Data Analyst Intern | Dev Information Technology, India\nJan 2024 – May 2024 - Completed a course on Power BI, learning data modeling, visualization, and reporting techniques. - Reprocessed pharma data and built Power BI dashboards for branch managers to visualize gross income, sales, and product rankings. - Created a heat map of India to analyze product sales distribution across regions. - Analyzed Gujarat government import-export data using Power BI.\n… (rest of the content)"
+  },
+  {
+    "objectID": "index.html#backend-developer-intern-vnerds-india",
+    "href": "index.html#backend-developer-intern-vnerds-india",
+    "title": "Neelkumar Patel’s Resume",
+    "section": "Backend Developer Intern | VNerds, India",
+    "text": "Backend Developer Intern | VNerds, India\nJun 2023 – Sep 2023 - Implemented CRUD operations using Django, FastAPI, and Flask with an SQLite database and tested APIs via Postman. - Developed APIs in Django to update the company’s database with changes every midnight across 24 tables."
+  },
+  {
+    "objectID": "index.html#web-developer-intern-logical-plateau-india",
+    "href": "index.html#web-developer-intern-logical-plateau-india",
+    "title": "Neelkumar Patel’s Resume",
+    "section": "Web Developer Intern | Logical Plateau, India",
+    "text": "Web Developer Intern | Logical Plateau, India\nMay 2022 – Jun 2022 - Developed a calculator in HTML and CSS for an EV scooter company website. - Built a basic website using WordPress for a paying guest business."
+  },
+  {
+    "objectID": "index.html#airline-ticket-reservation-system",
+    "href": "index.html#airline-ticket-reservation-system",
+    "title": "Neelkumar Patel’s Resume",
+    "section": "Airline Ticket Reservation System",
+    "text": "Airline Ticket Reservation System\n\nDeveloped an Airline Ticket Reservation System with User and Admin modules, handling flight schedules, fares, reservations, and ticket records."
+  },
+  {
+    "objectID": "index.html#bank-loan-defaulter-prediction",
+    "href": "index.html#bank-loan-defaulter-prediction",
+    "title": "Neelkumar Patel’s Resume",
+    "section": "Bank Loan Defaulter Prediction",
+    "text": "Bank Loan Defaulter Prediction\n\nDeveloped a predictive model using IBM SPSS Modeler, enhancing loan approval efficiency by analyzing historical loan data."
+  },
+  {
+    "objectID": "index.html#real-time-face-recognition",
+    "href": "index.html#real-time-face-recognition",
+    "title": "Neelkumar Patel’s Resume",
+    "section": "Real-Time Face Recognition",
+    "text": "Real-Time Face Recognition\n\nImplemented a Real-Time Face Recognition system for smart security applications, using OpenCV for image data management."
+  },
+  {
+    "objectID": "index.html#interactive-storytelling-game",
+    "href": "index.html#interactive-storytelling-game",
+    "title": "Neelkumar Patel’s Resume",
+    "section": "Interactive Storytelling Game",
+    "text": "Interactive Storytelling Game\n\nDeveloped a game using Unity 3D to calculate IQ through problem-solving, integrating Firebase for data storage and a Django website for analytics."
+  },
+  {
+    "objectID": "index.html#master-in-data-analytics-engineering",
+    "href": "index.html#master-in-data-analytics-engineering",
+    "title": "Neelkumar Patel’s Resume",
+    "section": "Master in Data Analytics Engineering",
+    "text": "Master in Data Analytics Engineering\nGeorge Mason University\nAug 2024 – Present"
+  },
+  {
+    "objectID": "index.html#bachelor-in-computer-science-and-engineering",
+    "href": "index.html#bachelor-in-computer-science-and-engineering",
+    "title": "Neelkumar Patel’s Resume",
+    "section": "Bachelor in Computer Science and Engineering",
+    "text": "Bachelor in Computer Science and Engineering\nGanpat University\nCGPA: 8.12/10.0\nAug 2020 – May 2024"
+  },
+  {
+    "objectID": "index.html#navigation",
+    "href": "index.html#navigation",
+    "title": "Neelkumar Patel’s Resume",
+    "section": "",
+    "text": "Resume\nProjects\nBlog\nContact"
+  },
+  {
+    "objectID": "index.html#navigation-1",
+    "href": "index.html#navigation-1",
+    "title": "Neelkumar Patel’s Resume",
+    "section": "Navigation",
+    "text": "Navigation\n\nResume\nProjects\nBlog\nContact"
+  },
+  {
+    "objectID": "index.html#data-analyst-intern-dev-information-technology-india-1",
+    "href": "index.html#data-analyst-intern-dev-information-technology-india-1",
+    "title": "Neelkumar Patel’s Resume",
+    "section": "Data Analyst Intern | Dev Information Technology, India",
+    "text": "Data Analyst Intern | Dev Information Technology, India\nJan 2024 – May 2024 - Completed a course on Power BI, learning data modeling, visualization, and reporting techniques. - Reprocessed pharma data and built Power BI dashboards for branch managers to visualize gross income, sales, and product rankings. - Created a heat map of India to analyze product sales distribution across regions. - Analyzed Gujarat government import-export data using Power BI."
+  },
+  {
+    "objectID": "index.html#backend-developer-intern-vnerds-india-1",
+    "href": "index.html#backend-developer-intern-vnerds-india-1",
+    "title": "Neelkumar Patel’s Resume",
+    "section": "Backend Developer Intern | VNerds, India",
+    "text": "Backend Developer Intern | VNerds, India\nJun 2023 – Sep 2023 - Implemented CRUD operations using Django, FastAPI, and Flask with an SQLite database and tested APIs via Postman. - Developed APIs in Django to update the company’s database with changes every midnight across 24 tables."
+  },
+  {
+    "objectID": "index.html#web-developer-intern-logical-plateau-india-1",
+    "href": "index.html#web-developer-intern-logical-plateau-india-1",
+    "title": "Neelkumar Patel’s Resume",
+    "section": "Web Developer Intern | Logical Plateau, India",
+    "text": "Web Developer Intern | Logical Plateau, India\nMay 2022 – Jun 2022 - Developed a calculator in HTML and CSS for an EV scooter company website. - Built a basic website using WordPress for a paying guest business."
+  },
+  {
+    "objectID": "index.html#master-in-data-analytics-engineering-1",
+    "href": "index.html#master-in-data-analytics-engineering-1",
+    "title": "Neelkumar Patel’s Resume",
+    "section": "Master in Data Analytics Engineering",
+    "text": "Master in Data Analytics Engineering\nGeorge Mason University\nAug 2024 – Present"
+  },
+  {
+    "objectID": "index.html#bachelor-in-computer-science-and-engineering-1",
+    "href": "index.html#bachelor-in-computer-science-and-engineering-1",
+    "title": "Neelkumar Patel’s Resume",
+    "section": "Bachelor in Computer Science and Engineering",
+    "text": "Bachelor in Computer Science and Engineering\nGanpat University\nCGPA: 8.12/10.0\nAug 2020 – May 2024"
+  },
+  {
+    "objectID": "index.html#airline-ticket-reservation-system-1",
+    "href": "index.html#airline-ticket-reservation-system-1",
+    "title": "Neelkumar Patel’s Resume",
+    "section": "Airline Ticket Reservation System",
+    "text": "Airline Ticket Reservation System\n\nDeveloped an Airline Ticket Reservation System with User and Admin modules, handling flight schedules, fares, reservations, and ticket records."
+  },
+  {
+    "objectID": "index.html#bank-loan-defaulter-prediction-1",
+    "href": "index.html#bank-loan-defaulter-prediction-1",
+    "title": "Neelkumar Patel’s Resume",
+    "section": "Bank Loan Defaulter Prediction",
+    "text": "Bank Loan Defaulter Prediction\n\nDeveloped a predictive model using IBM SPSS Modeler, enhancing loan approval efficiency by analyzing historical loan data."
+  },
+  {
+    "objectID": "index.html#real-time-face-recognition-1",
+    "href": "index.html#real-time-face-recognition-1",
+    "title": "Neelkumar Patel’s Resume",
+    "section": "Real-Time Face Recognition",
+    "text": "Real-Time Face Recognition\n\nImplemented a Real-Time Face Recognition system for smart security applications, using OpenCV for image data management."
+  },
+  {
+    "objectID": "index.html#interactive-storytelling-game-1",
+    "href": "index.html#interactive-storytelling-game-1",
+    "title": "Neelkumar Patel’s Resume",
+    "section": "Interactive Storytelling Game",
+    "text": "Interactive Storytelling Game\n\nDeveloped a game using Unity 3D to calculate IQ through problem-solving, integrating Firebase for data storage and a Django website for analytics."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Developed a system with two modules: User and Admin Login, handling flight schedules, fares, and reservations.\nUtilized Java, HTML, CSS, and MySQL for the system."
+  },
+  {
+    "objectID": "projects.html#airline-ticket-reservation-system",
+    "href": "projects.html#airline-ticket-reservation-system",
+    "title": "Projects",
+    "section": "",
+    "text": "Developed a system with two modules: User and Admin Login, handling flight schedules, fares, and reservations.\nUtilized Java, HTML, CSS, and MySQL for the system."
+  },
+  {
+    "objectID": "projects.html#bank-loan-defaulter-prediction",
+    "href": "projects.html#bank-loan-defaulter-prediction",
+    "title": "Projects",
+    "section": "Bank Loan Defaulter Prediction",
+    "text": "Bank Loan Defaulter Prediction\n\nDeveloped a prediction model using IBM SPSS Modeler, analyzing historical loan data to predict high-risk applicants.\nIntegrated financial history and credit scores to improve model accuracy."
+  },
+  {
+    "objectID": "projects.html#real-time-face-recognition",
+    "href": "projects.html#real-time-face-recognition",
+    "title": "Projects",
+    "section": "Real-Time Face Recognition",
+    "text": "Real-Time Face Recognition\n\nConceptualized and developed a real-time face recognition system for smart security systems.\nUtilized OpenCV for image processing."
+  },
+  {
+    "objectID": "projects.html#interactive-storytelling-game",
+    "href": "projects.html#interactive-storytelling-game",
+    "title": "Projects",
+    "section": "Interactive Storytelling Game",
+    "text": "Interactive Storytelling Game\n\nCreated a game using Unity 3D that calculates IQ through problem-solving challenges.\nIntegrated Firebase SDK for data storage and built a Django-based website with a Power BI dashboard for insights."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "In this post, I share my experiences and insights gained while pursuing my Master’s in Data Analytics Engineering.\n… (rest of the content)"
+  },
+  {
+    "objectID": "blog.html#my-journey-in-data-analytics",
+    "href": "blog.html#my-journey-in-data-analytics",
+    "title": "Blog",
+    "section": "",
+    "text": "In this post, I share my experiences and insights gained while pursuing my Master’s in Data Analytics Engineering.\n… (rest of the content)"
+  },
+  {
+    "objectID": "blog.html#web-development-adventures",
+    "href": "blog.html#web-development-adventures",
+    "title": "Blog",
+    "section": "",
+    "text": "Here, I discuss the projects I have worked on as a web developer intern and the technologies I used."
+  },
+  {
+    "objectID": "blog.html#insights-from-my-internship",
+    "href": "blog.html#insights-from-my-internship",
+    "title": "Blog",
+    "section": "",
+    "text": "This post covers what I learned during my internship at Dev Information Technology and how it shaped my career.\nBack to Home"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nFeel free to reach out to me via the following channels:\n\nEmail: neelpatel2804@gmail.com\nPhone: 571-776-6037\nLinkedIn: linkedin.com/in/neelpatel2601"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "Institution: George Mason University\nDuration: Aug 2024 – Present"
+  },
+  {
+    "objectID": "education.html#master-in-data-analytics-engineering",
+    "href": "education.html#master-in-data-analytics-engineering",
+    "title": "Education",
+    "section": "",
+    "text": "Institution: George Mason University\nDuration: Aug 2024 – Present"
+  },
+  {
+    "objectID": "education.html#bachelor-in-computer-science-and-engineering",
+    "href": "education.html#bachelor-in-computer-science-and-engineering",
+    "title": "Education",
+    "section": "Bachelor in Computer Science and Engineering",
+    "text": "Bachelor in Computer Science and Engineering\n\nInstitution: Ganpat University\nCGPA: 8.12/10.0\nDuration: Aug 2020 – May 2024"
+  },
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills",
+    "section": "",
+    "text": "C, C++, Java, Python (Advanced), R"
+  },
+  {
+    "objectID": "skills.html#programming-languages",
+    "href": "skills.html#programming-languages",
+    "title": "Skills",
+    "section": "",
+    "text": "C, C++, Java, Python (Advanced), R"
+  },
+  {
+    "objectID": "skills.html#web-development",
+    "href": "skills.html#web-development",
+    "title": "Skills",
+    "section": "Web Development",
+    "text": "Web Development\n\nHTML, CSS, Django, Flask, FastAPI"
+  },
+  {
+    "objectID": "skills.html#databases",
+    "href": "skills.html#databases",
+    "title": "Skills",
+    "section": "Databases",
+    "text": "Databases\n\nSQL, SQLite, MongoDB, Spark, Firebase, Scala, Hadoop"
+  },
+  {
+    "objectID": "skills.html#tools-and-technologies",
+    "href": "skills.html#tools-and-technologies",
+    "title": "Skills",
+    "section": "Tools and Technologies",
+    "text": "Tools and Technologies\n\nPower BI, Tableau, IBM-SPSS, AWS, MySQL Workbench, MongoDB Compass, Google Colab"
+  },
+  {
+    "objectID": "work-experience.html",
+    "href": "work-experience.html",
+    "title": "Work Experience",
+    "section": "",
+    "text": "Completed a course on Power BI, learning data modeling, visualization, and reporting techniques.\nReprocessed pharma data and built Power BI dashboards for branch managers to log in and get insights.\nCreated a heat map of India to analyze product sales distribution.\nAnalyzed Gujarat government import-export data using Power BI."
+  },
+  {
+    "objectID": "work-experience.html#data-analyst-intern-dev-information-technology-india-jan-2024-may-2024",
+    "href": "work-experience.html#data-analyst-intern-dev-information-technology-india-jan-2024-may-2024",
+    "title": "Work Experience",
+    "section": "",
+    "text": "Completed a course on Power BI, learning data modeling, visualization, and reporting techniques.\nReprocessed pharma data and built Power BI dashboards for branch managers to log in and get insights.\nCreated a heat map of India to analyze product sales distribution.\nAnalyzed Gujarat government import-export data using Power BI."
+  },
+  {
+    "objectID": "work-experience.html#backend-developer-intern-vnerds-india-jun-2023-sep-2023",
+    "href": "work-experience.html#backend-developer-intern-vnerds-india-jun-2023-sep-2023",
+    "title": "Work Experience",
+    "section": "Backend Developer Intern | VNerds, India (Jun 2023 – Sep 2023)",
+    "text": "Backend Developer Intern | VNerds, India (Jun 2023 – Sep 2023)\n\nImplemented CRUD operations using Django, FastAPI, and Flask with SQLite.\nDeveloped APIs in Django to update the company’s database automatically.\nTested APIs via Postman."
+  },
+  {
+    "objectID": "work-experience.html#web-developer-intern-logical-plateau-india-may-2022-jun-2022",
+    "href": "work-experience.html#web-developer-intern-logical-plateau-india-may-2022-jun-2022",
+    "title": "Work Experience",
+    "section": "Web Developer Intern | Logical Plateau, India (May 2022 – Jun 2022)",
+    "text": "Web Developer Intern | Logical Plateau, India (May 2022 – Jun 2022)\n\nDeveloped an HTML and CSS-based calculator for an EV scooter company website.\nBuilt a WordPress website for a paying guest business, showcasing room options."
+  }
+]

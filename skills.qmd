@@ -1,0 +1,16 @@
+---
+title: "Skills"
+---
+
+
+## Programming Languages
+- C, C++, Java, Python (Advanced), R
+
+## Web Development
+- HTML, CSS, Django, Flask, FastAPI
+
+## Databases
+- SQL, SQLite, MongoDB, Spark, Firebase, Scala, Hadoop
+
+## Tools and Technologies
+- Power BI, Tableau, IBM-SPSS, AWS, MySQL Workbench, MongoDB Compass, Google Colab

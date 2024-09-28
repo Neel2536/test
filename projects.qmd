@@ -1,0 +1,20 @@
+---
+title: "Projects"
+---
+
+
+## Airline Ticket Reservation System
+- Developed a system with two modules: User and Admin Login, handling flight schedules, fares, and reservations.
+- Utilized Java, HTML, CSS, and MySQL for the system.
+
+## Bank Loan Defaulter Prediction
+- Developed a prediction model using IBM SPSS Modeler, analyzing historical loan data to predict high-risk applicants.
+- Integrated financial history and credit scores to improve model accuracy.
+
+## Real-Time Face Recognition
+- Conceptualized and developed a real-time face recognition system for smart security systems.
+- Utilized OpenCV for image processing.
+
+## Interactive Storytelling Game
+- Created a game using Unity 3D that calculates IQ through problem-solving challenges.
+- Integrated Firebase SDK for data storage and built a Django-based website with a Power BI dashboard for insights.

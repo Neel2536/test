@@ -1,0 +1,11 @@
+---
+title: "Blog"
+---
+
+# Blog
+
+## My Journey in Data Analytics
+In this post, I share my experiences and insights gained while pursuing my Master's in Data Analytics Engineering.
+
+... (rest of the content)
+

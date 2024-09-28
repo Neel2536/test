@@ -1,0 +1,13 @@
+---
+title: "Education"
+---
+
+
+## Master in Data Analytics Engineering
+- **Institution**: George Mason University
+- **Duration**: Aug 2024 – Present
+
+## Bachelor in Computer Science and Engineering
+- **Institution**: Ganpat University
+- **CGPA**: 8.12/10.0
+- **Duration**: Aug 2020 – May 2024
